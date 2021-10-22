@@ -1,0 +1,35 @@
+[
+  {
+    "category": "python",
+    "question":"W ktory roku pojawil sie python:",
+    "a":1986,
+    "b":2000,
+    "c":2343,
+    "d":2343,
+    "e":"NIE WIEM",
+    "f": "pomoc",
+    "correct answer": "b"
+  },
+  {
+    "category": "fizyka",
+    "question":"Ktora planeta od slonca jest Ziemia:",
+    "a":1,
+    "b":2,
+    "c":3,
+    "d":4,
+    "e":"NIE WIEM",
+    "f": "pomoc",
+    "correct answer": "c"
+  },
+    {
+      "category": "film",
+    "question":"Ktory aktor jako pierwszy wcielil sie w role Jamesa Bonda:",
+    "a":"Sean Conery",
+    "b":"Roger Moore",
+    "c":"Pierce Brosman",
+    "d":"Aleksander Sobczak",
+    "e":"NIE WIEM",
+      "f": "pomoc",
+    "correct answer": "a"
+  }
+]
